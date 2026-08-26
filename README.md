@@ -6,7 +6,7 @@ I work primarily in [`C`](https://en.wikipedia.org/wiki/C_(programming_language)
 
 Outside of my own projects I enjoy tinkering with OS internals, writing tooling that makes the developer experience faster and leaner, and exploring security research. My daily environment is [Arch Linux (CachyOS)](https://cachyos.org/) with [Hyprland](https://hyprland.org/) and [Neovim](https://neovim.io/).
 
-You can find me at [shaiqie.dev](https://shaiqie.dev) or reach me by email at [hello@shaiqie.dev](mailto:hello@shaiqie.dev).
+You can find me at [endlevel.tech](https://endlevel.tech) or reach me by email at [me@endlevel,tech](mailto:me@endlevel.tech).
 
 ---
 
